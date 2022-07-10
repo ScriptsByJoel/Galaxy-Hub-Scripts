@@ -20,4 +20,6 @@ elseif game.PlaceId == 9624863538 then ------------- CLICKER CHAMPIONS
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Clicker-Champions.lua",true))()
 elseif game.PlaceId == 5740246170 then ------------- TOWER SIMULATOR
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Tower-Simulator.lua",true))()
+elseif game.PlaceId == 7655745946 then ------------------ DUNKING SIMULATOR
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/DUNKING%20SIM%20PROTECTED.lua",true))()
 end
