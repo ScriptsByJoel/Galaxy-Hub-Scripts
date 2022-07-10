@@ -9,7 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-
 elseif game.PlaceId == 9498006165 then ------------- TAPPING SIMULATOR
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Tapping-Simulator.lua",true))()
 elseif game.PlaceId == 9551640993 then ------------- MINING SIMULATOR 2
-https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Mining-Simulator-2.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Mining-Simulator-2.lua",true))()
 elseif game.PlaceId == 4751054607 then ------------- SNEEZING SIMULATOR
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Galaxy-Hub-Scripts/main/Sneezing-Simulator.lua",true))()
 elseif game.PlaceId == 8750997647 then ------------- TAPPING LEGENDS X
