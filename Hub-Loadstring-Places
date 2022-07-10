@@ -1,0 +1,23 @@
+if game.PlaceId == 9396463375 then -- checks the game id
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Mining%20Empire%20Script%20V1.lua",true))()
+elseif game.PlaceId == 9282309028 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Rocket%20Rush%20Simulator%20Script%20V1.lua",true))()
+elseif game.PlaceId == 5490351219 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Clicker%20Madness%20V1.lua",true))()
+elseif game.PlaceId == 9677464361 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Basketball-Pro-Simulator",true))()
+elseif game.PlaceId == 9498006165 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Tapping-Simulator",true))()
+elseif game.PlaceId == 9551640993 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Mining-Simulator-2",true))()
+elseif game.PlaceId == 4751054607 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Sneezing-Simulator",true))()
+elseif game.PlaceId == 8750997647 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Tapping-Legends-X",true))()
+elseif game.PlaceId == 9734866408 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Basketball-Simulator",true))()
+elseif game.PlaceId == 9624863538 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Clicker-Champions",true))()
+elseif game.PlaceId == 5740246170 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsByJoel/Public-Scripts/main/Tower-Simulator",true))()
+end
